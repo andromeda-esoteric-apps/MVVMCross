@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TipCalculator", "TipCalculator", "{DB0BCA9D-30A3-4145-934D-5C6B1E7B70F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculator.Core", "TipCalculator.Core\TipCalculator.Core.csproj", "{45480BEF-ECAD-45BF-8ADD-7294EB9B69D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45480BEF-ECAD-45BF-8ADD-7294EB9B69D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45480BEF-ECAD-45BF-8ADD-7294EB9B69D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45480BEF-ECAD-45BF-8ADD-7294EB9B69D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45480BEF-ECAD-45BF-8ADD-7294EB9B69D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{45480BEF-ECAD-45BF-8ADD-7294EB9B69D5} = {DB0BCA9D-30A3-4145-934D-5C6B1E7B70F8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23E60FB4-5578-41ED-B891-1424C250435C}
+	EndGlobalSection
+EndGlobal
